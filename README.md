@@ -15,4 +15,7 @@ sudo apt-get install openscad
 
 python export_blocks_beta.py
 
-
+# TO DO
+- New code to use multiprocessing
+- Additional script to create a virtual printer in minecraft
+- Gui interface to choose export filename
