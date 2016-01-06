@@ -11,7 +11,7 @@ sudo apt-get install openscad
 
 2 - Launch Minecraft PI and create something with stone block
 
-3 - To export blocks move in center of your piece, press TAB and launch this script in to a terminal :
+3 - To export blocks move in center of your piece, press TAB (to exit minecraft) and launch this script in to a terminal :
 
 python export_blocks_beta.py
 
