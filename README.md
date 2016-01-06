@@ -1,5 +1,7 @@
-# export_blocks_minecraft_PI_edition
-Script to export stone blocks in STL files 
+# Export_blocks_minecraft_PI_edition
+Script to export stone blocks in STL files
+
+CC by SA Julien Rat january 2016
 
 # How to use
 
